@@ -1,2 +1,5 @@
-# selective-merge
+# Project : selective-merge
+
 selective merge
+
+## Intro
